@@ -1,2 +1,2 @@
-# esteelauder1b
-BTT AI Studio Project: Optimize Surprise Gift Strategies
+# unwrappingcustomerdelight
+BTT AI Studio Project: Optimizing Surprise Gift Strategies via a Bayesian Regression Discontinuity Design
