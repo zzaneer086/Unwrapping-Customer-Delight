@@ -1,8 +1,5 @@
 <h1 align="center">Unwrapping Customer Delight</h1>
 
-
-[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zzaneer086/Unwrapping-Customer-Delight)
-
 <p>Break Through Tech: AI Studio Project</p>
 <p>Unwrapping Customer Delight: Using Frequentist and Bayesian Regression Models to Optimize Surprise Gift Strategies</p>
 
@@ -35,6 +32,12 @@
   <li> Comparison Between Models: <a href="https://github.com/s-bhatia1216">Sonal</a>, <a href="https://github.com/zzaneer086">Zainab</a></li>
 </ul>
 
+<h2>Quickstart</h2>
+<p>Launch in Colab.</p>
+
+
+
+[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zzaneer086/Unwrapping-Customer-Delight)
 
 <h2>License</h2>
 <p>This project is licensed under the Apache License 2.0. See the LICENSE file for more details.</p>
