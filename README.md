@@ -6,6 +6,16 @@
 <h2>Overview</h2>
 <p>This project analyzes the impact of surprise gifts on customer spending using Regression Discontinuity Design (RDD) models. Both Frequentist and Bayesian approaches are employed to evaluate the treatment effect at the $80 spending threshold. The analysis provides insights into customer behavior and the effectiveness of gift-based interventions.</p>
 
+
+<div align="center">
+  <a href="">
+    <img height=200 align="center" src="./Images/Frequentist_RDD_Plot.png"  />
+  </a>
+  <a href="">
+    <img height=200 align="center" src="./Images/Bayesian_RDD_Plot.png"  />
+  </a>
+</div>
+
 <h3>Objectives</h3>
 <ul>
   <li>Evaluate the treatment effect at the $80 cutoff using Frequentist and Bayesian RDD models.</li>
